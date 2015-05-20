@@ -23,9 +23,9 @@
                    preserveRatio="true"/>
         <TextArea layoutX="14.0" layoutY="233.0" prefHeight="376.0"
                   prefWidth="358.0"
-                  text="Absolute VST Instrument Collection&#10;&#10;Consisting of HALion Sonic, Padshop Pro, Retrologue, Hypnotic Dance, Triebwerk and Dark Planet, the Absolute VST Instrument Collection offers thousands of sounds, advanced technology and state-of-the-art sound design for contemporary music production, composing and live performance. Absolute combines exceptional quality and premium value at a fantastic price.&#10;&#10;HALion Sonic 2 offers 2,500 first-class instruments and myriad creative options to captivate and inspire you, and to form the heart of your creative process.&#10;&#10;Padshop Pro is an enhanced version of Steinberg’s state-of-the-art VST granular synthesizer and comes with effects and opportunities to fit the requirements of professional sound designers and skilled creatives.&#10;&#10;"
+                  text="Text here"
                   wrapText="true"/>
-        <Label layoutX="9.0" layoutY="15.0" text="Absolute VST Collection 2">
+        <Label layoutX="9.0" layoutY="15.0" text="Product Name here">
             <font>
                 <Font size="32.0"/>
             </font>
