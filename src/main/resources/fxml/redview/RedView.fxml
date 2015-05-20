@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1"
+            xmlns="http://javafx.com/javafx/8"
+            fx:controller="demo.redview.RedViewController">
+    <children>
+        <Pane prefHeight="200.0" prefWidth="200.0"
+              style="-fx-background-color: red;">
+            <children>
+                <Button fx:id="button1" layoutX="68.0" layoutY="50.0"
+                        mnemonicParsing="false" text="Button"/>
+                <Button fx:id="button2" layoutX="68.0" layoutY="121.0"
+                        mnemonicParsing="false" text="Button"/>
+                <Button fx:id="button3" layoutX="68.0" layoutY="190.0" prefWidth="5000.0"
+                        mnemonicParsing="false" text="Button"/>
+
+            </children>
+        </Pane>
+    </children>
+</AnchorPane>
